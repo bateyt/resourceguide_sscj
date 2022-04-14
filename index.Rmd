@@ -1,0 +1,32 @@
+--- 
+title: "LCC Pathway Resource Guide"
+subtitle: "Social Science and Criminal Justice"
+author: ""
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+documentclass: book
+bibliography: [book.bib, packages.bib]
+url: https://bateyt.github.io/resourceguide_sscj
+# cover-image: path to the social sharing image like images/cover.jpg
+description: |
+  This is a resource guide for advisors and faculty mentors.
+link-citations: yes
+github-repo: bateyt/resourceguide_sscj
+---
+
+# About {-}
+
+This document is a resource guide for advisors and faculty mentors working with students within the Social Science and Criminal Justice pathway. For general transfer resources, please see the [General Transfer Resource Guide](https://bateyt.github.io/resourceguide_gentransfer).
+
+## Usage {-}
+
+Each chapter provides details for related programs at LCC's most common transfer institutions.
+
+
+
+```{r include=FALSE}
+# automatically create a bib database for R packages
+knitr::write_bib(c(
+  .packages(), 'bookdown', 'knitr', 'rmarkdown'
+), 'packages.bib')
+```
