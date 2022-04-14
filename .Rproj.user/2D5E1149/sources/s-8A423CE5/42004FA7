@@ -3,7 +3,7 @@
     "path": "~/R/Github/resourceguide_sscj/_output.yml",
     "project_path": "_output.yml",
     "type": "yaml",
-    "hash": "4072193630",
+    "hash": "1072193084",
     "contents": "",
     "dirty": false,
     "created": 1649963147934.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "5,51",
-        "scrollLine": "0"
+        "cursorPosition": "9,40",
+        "scrollLine": "1"
     },
     "folds": "",
-    "lastKnownWriteTime": 1649963156,
+    "lastKnownWriteTime": 1649966293,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1649963156466,
+    "last_content_update": 1649966293114,
     "read_only": false,
     "read_only_alternatives": []
 }
