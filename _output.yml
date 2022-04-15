@@ -7,7 +7,7 @@ bookdown::gitbook:
       after: |
         <li><a href="https://github.com/bateyt/resourceguide_sscj" target="blank">Published with bookdown</a></li>
     edit: https://github.com/bateyt/resourceguide_sscj/edit/main/%s
-    download: ["resourceguide_sscj.pdf"]
+    download: ["pdf", "epub"]
 bookdown::pdf_book:
   includes:
     in_header: preamble.tex
