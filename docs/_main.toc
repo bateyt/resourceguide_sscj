@@ -1,0 +1,11 @@
+\contentsline {chapter}{About}{5}{chapter*.2}%
+\contentsline {section}{Usage}{5}{section*.3}%
+\contentsline {chapter}{\numberline {1}Central Washington University}{7}{chapter.1}%
+\contentsline {chapter}{\numberline {2}City University of Seattle}{9}{chapter.2}%
+\contentsline {chapter}{\numberline {3}Eastern Washington University}{11}{chapter.3}%
+\contentsline {chapter}{\numberline {4}The Evergreen State College}{13}{chapter.4}%
+\contentsline {chapter}{\numberline {5}Portland State University}{15}{chapter.5}%
+\contentsline {chapter}{\numberline {6}University of Washington}{17}{chapter.6}%
+\contentsline {chapter}{\numberline {7}Warner Pacific College}{19}{chapter.7}%
+\contentsline {chapter}{\numberline {8}Washington State University}{21}{chapter.8}%
+\contentsline {chapter}{\numberline {9}Western Washington University}{23}{chapter.9}%
